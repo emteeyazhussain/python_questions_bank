@@ -29,3 +29,4 @@ Contributions to this repository are welcome! If you have additional practice pr
 
 Your feedback is valuable! If you have any questions, suggestions, or concerns regarding the practice problems or this repository, please don't hesitate to open an issue or contact us directly.
 
+### Important Note: Before Starting Sets 1 to 11, Complete Levels 0 to 9
